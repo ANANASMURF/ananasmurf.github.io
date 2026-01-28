@@ -31,3 +31,11 @@ button:hover {
   background-color: #e74c3c; /* rouge */
   color: white;
 }
+#monBoutonBacktomenu {
+  background-color: none;
+  color: none;
+  font-size: 30px;        /* taille du texte */
+  font-family: "Courier New", monospace;
+  border-radius: 50px;   /* forme arrondie */
+  padding: 15px 35px;
+}
