@@ -43,22 +43,15 @@ button:hover {
 #monBoutonBacktomenu:hover {
   text-decoration: underline;
   opacity: 0.8;
+  top: 10px;
+  left: 10px;
 }
 .logo {
-  width: 50px;   /* change la taille ici */
-  height: auto;   /* garde les proportions */
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.4);
-}
-.logob {
   width: 10px;   /* change la taille ici */
   height: auto;   /* garde les proportions */
   position: fixed;
   top: 10px;
-  left: 10px;
+  right: 10px;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.4);
 }
