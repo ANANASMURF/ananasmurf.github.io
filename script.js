@@ -5,6 +5,6 @@ bouton1.addEventListener("click", function () {
   window.location.href = "page.html";
 });
 bouton2.addEventListener("click", function () {
-  window.location.href = "pageNO.html";
+  window.location.href = "pageno.html";
 });
 
