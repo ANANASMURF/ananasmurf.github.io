@@ -22,4 +22,9 @@ button:hover {
 .logo {
   width: 150px;   /* change la taille ici */
   height: auto;   /* garde les proportions */
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.4);
 }
