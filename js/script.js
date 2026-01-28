@@ -3,12 +3,12 @@ const bouton2 = document.getElementById("monBouton2");
 const bouton3 = document.getElementById("monBoutontest");
 
 bouton1.addEventListener("click", function () {
-  window.location.href = "page.html";
+  window.location.href = "html/page.html";
 });
 bouton2.addEventListener("click", function () {
-  window.location.href = "pageno.html";
+  window.location.href = "html/getout/pageno.html";
 });
 bouton3.addEventListener("click", function () {
-  window.location.href = "icedodo.html";
+  window.location.href = "html/icedodo.html";
 });
 
