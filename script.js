@@ -2,5 +2,5 @@ const bouton = document.getElementById("monBouton");
 const message = document.getElementById("message");
 
 bouton.addEventListener("click", function () {
-  message.textContent = "Do u like pineapples?";
+  message.textContent = "ye ofc";
 });
