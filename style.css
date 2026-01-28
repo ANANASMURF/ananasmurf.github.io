@@ -12,3 +12,17 @@ button {
   cursor: pointer;
   margin: 10px;
 }
+button:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
+
+#monBouton {
+  background-color: #2ecc71; /* vert */
+  color: white;
+}
+
+#monBouton2 {
+  background-color: #e74c3c; /* rouge */
+  color: white;
+}
