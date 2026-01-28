@@ -35,6 +35,8 @@ button:hover {
   background-color: none;
   color: none;
   border: none;
+  top: 10px;
+  left: 10px;
   font-size: 30px;        /* taille du texte */
   font-family: "Courier New", monospace;
   border-radius: 50px;   /* forme arrondie */
@@ -43,8 +45,6 @@ button:hover {
 #monBoutonBacktomenu:hover {
   text-decoration: underline;
   opacity: 0.8;
-  top: 10px;
-  left: 10px;
 }
 .logo {
   width: 10px;   /* change la taille ici */
