@@ -47,7 +47,7 @@ button:hover {
   opacity: 0.8;
 }
 .logo {
-  width: 10px;   /* change la taille ici */
+  width: 100px;   /* change la taille ici */
   height: auto;   /* garde les proportions */
   position: fixed;
   top: 10px;
