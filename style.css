@@ -40,3 +40,7 @@ button:hover {
   border-radius: 50px;   /* forme arrondie */
   padding: 15px 35px;
 }
+#monBoutonBacktomenu:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
