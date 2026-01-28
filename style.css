@@ -41,6 +41,10 @@ button:hover {
   font-family: "Courier New", monospace;
   border-radius: 50px;   /* forme arrondie */
   padding: 15px 35px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
 }
 #monBoutonBacktomenu:hover {
   text-decoration: underline;
