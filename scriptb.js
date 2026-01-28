@@ -28,6 +28,6 @@ document.addEventListener("keydown", function (event) {
 
 function checkCollision() {
   if (x === 300 && y === 200) {
-    document.getElementById("message").textContent = "🎉 Gagné !";
+    document.getElementById("messageb").textContent = "🎉 Gagné !";
   }
 }
