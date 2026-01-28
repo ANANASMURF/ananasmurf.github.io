@@ -6,9 +6,9 @@ bouton1.addEventListener("click", function () {
   window.location.href = "page.html";
 });
 bouton2.addEventListener("click", function () {
-  window.location.href = "html/getout/pageno.html";
+  window.location.href = "pageno.html";
 });
 bouton3.addEventListener("click", function () {
-  window.location.href = "html/icedodo.html";
+  window.location.href = "icedodo.html";
 });
 
