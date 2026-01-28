@@ -15,7 +15,7 @@ button {
 }
 button:hover {
   transform: scale(1.1);
-  transition: 0.2s;
+  transition: 0.2;
 }
 #monBouton2:hover {
   animation: shake 0.3s;
@@ -52,13 +52,4 @@ button:hover {
   right: 10px;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.4);
-}
-body2 {
-  margin: 0;
-  font-family: Arial, sans-serif;
-
-  background-image: url("images/skin.png");
-  background-size: cover;        /* couvre tout l’écran */
-  background-position: center;   /* centre l’image */
-  background-repeat: no-repeat;  /* pas de répétition */
 }
