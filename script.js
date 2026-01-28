@@ -1,5 +1,4 @@
 const bouton1 = document.getElementById("monBouton");
-const message = document.getElementById("message");
 const bouton2 = document.getElementById("monBouton2");
 
 bouton1.addEventListener("click", function () {
