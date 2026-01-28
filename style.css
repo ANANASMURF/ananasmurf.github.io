@@ -33,7 +33,8 @@ button:hover {
 }
 #monBoutonBacktomenu {
   background-color: none;
-  color: none;
+  color: white;
+  border: none;
   font-size: 30px;        /* taille du texte */
   font-family: "Courier New", monospace;
   border-radius: 50px;   /* forme arrondie */
