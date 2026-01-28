@@ -9,6 +9,6 @@ bouton2.addEventListener("click", function () {
   window.location.href = "pageno.html";
 });
 bouton3.addEventListener("click", function () {
-  window.location.href = "idexb.html";
+  window.location.href = "icedodo.html";
 });
 
