@@ -25,6 +25,8 @@ body {
 
 .bbbb {
   animation: spin 4s linear infinite;
+  width: 200px;   /* change la taille ici */
+  height: auto;   /* garde les proportions */
 }
 
 @keyframes spin {
