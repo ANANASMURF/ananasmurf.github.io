@@ -15,7 +15,7 @@ body {
   position: fixed;
   top: 10px;
   right: 10px;
-  border-radius: 15px;
+  border-radius: 30px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.4);
   animation: float 3s ease-in-out infinite,
              spin 6s linear infinite;
