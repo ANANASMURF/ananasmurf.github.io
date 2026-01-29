@@ -17,7 +17,8 @@ body {
   right: 10px;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.4);
-  animation: float 3s ease-in-out infinite;
+  animation: float 3s ease-in-out infinite,
+             spin 6s linear infinite;
 }
 @keyframes float {
   0%   { transform: translateY(0); }
