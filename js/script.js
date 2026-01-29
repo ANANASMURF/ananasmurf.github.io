@@ -26,3 +26,8 @@ if (bouton4) {
     window.location.href = "index.html";
   });
 }
+const logo = document.getElementById("logoBtn");
+
+logo.addEventListener("click", function () {
+  window.location.href = "index.html";
+});
