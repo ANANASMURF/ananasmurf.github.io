@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-
+  text-align: center;
   background-image: url("images/skin.png");
   background-size: cover;        /* couvre tout l’écran */
   background-position: center;   /* centre l’image */
