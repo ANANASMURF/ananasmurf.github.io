@@ -2,7 +2,7 @@ const bouton1 = document.getElementById("monBouton");
 const bouton2 = document.getElementById("monBouton2");
 const bouton3 = document.getElementById("monBoutontest");
 const bouton4 = document.getElementById("monBoutonBacktomenu");
-
+const logo = document.getElementById("logoBtn");
 if (bouton1) {
   bouton1.addEventListener("click", function () {
     window.location.href = "page.html";
@@ -26,8 +26,6 @@ if (bouton4) {
     window.location.href = "index.html";
   });
 }
-const logo = document.getElementById("logoBtn");
-
 logo.addEventListener("click", function () {
   window.location.href = "index.html";
 });
