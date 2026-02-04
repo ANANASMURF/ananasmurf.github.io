@@ -20,23 +20,8 @@ body {
   animation: float 3s ease-in-out infinite,
              spin 6s linear infinite;
 }
-@keyframes float {
-  0%   { transform: translateY(0); }
-  50%  { transform: translateY(-10px); }
-  100% { transform: translateY(0); }
-}
+
 #logoBtn:hover {
   text-decoration: underline;
   opacity: 0.8;
-}
-
-.bbbb {
-  animation: spin 4s linear infinite;
-  width: 200px;   /* change la taille ici */
-  height: auto;   /* garde les proportions */
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to   { transform: rotate(360deg); }
 }
