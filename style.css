@@ -43,6 +43,7 @@ button:hover {
   opacity: 0.8;
 }
 .logo {
+  cursor: pointer;
   width: 100px;   /* change la taille ici */
   height: auto;   /* garde les proportions */
   position: fixed;
@@ -52,4 +53,14 @@ button:hover {
   box-shadow: 0 5px 15px rgba(0,0,0,0.4);
   animation: float 3s ease-in-out infinite,
              spin 6s linear infinite;
+}
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
 }
