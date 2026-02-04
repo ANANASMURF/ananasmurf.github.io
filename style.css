@@ -20,7 +20,10 @@ button:hover {
 #monBouton2:hover {
   animation: shake 0.3s;
 }
-#monBouton:hover {
+#monBouton2:hover {
+  animation: shake 0.3s;
+  
+#monBoutontest:hover {
   animation: shake 0.3s;
 }
 #monBouton {
@@ -31,6 +34,10 @@ button:hover {
   background-color: #e74c3c; /* rouge */
   color: white;
 }
+  #monBoutontest {
+  background-color: #00EAFF; /* bleu */
+  color: white;
+  }
 #logoBtn:hover {
   text-decoration: underline;
   opacity: 0.8;
