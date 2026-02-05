@@ -2,7 +2,6 @@ const bouton1 = document.getElementById("monBouton");
 const bouton2 = document.getElementById("monBouton2");
 const bouton3 = document.getElementById("monBoutontest");
 const bouton4 = document.getElementById("monBoutonBacktomenu");
-const bouton4 = document.getElementById("Icedodolink");
 const logo = document.getElementById("logoBtn");
 if (bouton1) {
   bouton1.addEventListener("click", function () {
@@ -27,11 +26,7 @@ if (bouton4) {
     window.location.href = "index.html";
   });
 }
-if (bouton5) {
-  bouton5.addEventListener("click", function () {
-    window.location.href = ;
-  });
-}
+
 logo.addEventListener("click", function () {
   window.location.href = "index.html";
 });
